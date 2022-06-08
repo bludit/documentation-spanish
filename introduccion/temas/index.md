@@ -1,13 +1,13 @@
-# Title: Temas
+# Title: Plantillas
 <!-- Position: 6 -->
 ---
-Bludit supports themes to change the appearance of your website or blog.
+Bludit permite plantillas para cambiar la apariencia de su sitio web o blog.
 
-You can find themes on the website [Bludit Themes](https://themes.bludit.com).
+Puedes encontrar plantillas en el sitio web. [Bludit Themes](https://themes.bludit.com).
 
-## How to install a theme
-1. Download the zip file with the theme.
-2. Uncompress the zip file.
-3. Copy the theme folder into the folder `/bl-themes/` on the server.
-4. Go to the **Admin panel**, on the left sidebar go to **Settings > Themes**.
-5. Look for the theme on the list and click on **Activate**.
+## ¿Cómo instalar una plantilla?
+1. Descarga el archivo comprimido en formato zip con la plantilla.
+2. Extraiga o descomprima el archivo comprimido en formato zip.
+3. Copie la carpeta de la plantilla en la carpeta `/bl-themes/` en el servidor web.
+4. Acceda a **Admin panel**, en la barra lateral izquierda, vaya a **Settings > Themes**.
+5. Busque la plantilla en la lista y haga clic en **Activate**.
