@@ -1,25 +1,25 @@
 # Title: Guía de instalación
 <!-- Position: 3 -->
 ---
-Install Bludit in a few steps.
-1. Download the latest version from [the official page](https://www.bludit.com).
-2. Extract the zip file.
-3. Upload the extracted content of the zip file to the directory of your server/hosting, where Bludit will be installed. This can be the root directory or a subdirectory like for example `/bludit`.
-4. Open the directory with the installation in your browser. If it is in the root directory `https://example.com`, if it is in a subdirectory for example `https://example.com/bludit/`.
-5. Follow the Bludit Installer to configure the website.
+Instale Bludit en unos pocos pasos.
+1. Descarga la última versión desde la [página oficial](https://www.bludit.com).
+2. Extraiga o descomprima los archivos comprimidos en formato zip.
+3. Suba el contenido extraído del archivo zip al directorio de tu servidor/hospedaje, donde se instalará Bludit. Este puede ser el directorio raíz o un subdirectorio como, por ejemplo, `/bludit`.
+4. Abra la dirección con la instalación en su navegador. Si está en el directorio raíz, utilice `https://ejemplo.com`, si está en un subdirectorio o carpeta, por ejemplo `https://ejemplo.com/bludit/`.
+5. Siga la guía de instalación de Bludit para configurar el sitio web.
 
 <div class="note">
-<div class="title">Timezone</div>
-Bludit tries to find your timezone automatically but it is recommended to check it after the installation at:
+<div class="title">Zona horaria</div>
+Bludit intenta encontrar su zona horaria automáticamente, pero se recomienda verificarla después de la instalación en:
 **Admin Panel > Settings > Language > Timezone**
 </div>
 
 <div class="note">
-<div class="title">Web Server</div>
-If you have some issues with the installation you can check the section Web Servers. <a href="https://docs.bludit.com/en/webservers/apache">Apache</a> - <a href="https://docs.bludit.com/en/webservers/nginx">Nginx</a>
+<div class="title">Servidor Web</div>
+Si tiene algún problema con la instalación, puede consultar la sección Servidores web. <a href="https://docs.bludit.com/en/webservers/apache">Apache</a> - <a href="https://docs.bludit.com/en/webservers/nginx">Nginx</a>
 </div>
 
 <div class="note">
-<div class="title">Upload files</div>
-You can use an FTP or SFTP client or WebFTP to upload files to the hosting.
+<div class="title">Subir archivos</div>
+Puede utilizar un cliente FTP o SFTP o WebFTP para subir archivos al servidor web.
 </div>
