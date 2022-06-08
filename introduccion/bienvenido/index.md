@@ -19,7 +19,7 @@ Conecta con desarrolladores y usuarios en diferentes redes sociales y plataforma
 * [Github](https://github.com/bludit/bludit)
 
 <h2 id="donations">Donaciones</h2>
-Las donaciones y el apoyo de la comunidad son lo que ayuda a que este proyecto se mantenga en funcionamiento. Haz una donación a través de Paypal o apoya a Bludit a través de Open Collective.
+Las donaciones y el apoyo de la comunidad es lo que ayuda a que este proyecto se mantenga en funcionamiento. Haz una donación a través de Paypal o apoya a Bludit a través de Open Collective.
 * [Paypal](https://www.paypal.me/bluditpro/5)
 * [Open Collective](https://opencollective.com/bludit)
 
