@@ -1,29 +1,29 @@
 # Title: Cómo programar el contenido
 <!-- Position: 4 -->
 ---
-You can prepare a page and schedule it to be published on your website at a different date.
+Puede preparar una página y programarla para que se publique en su sitio web en una fecha diferente.
 
-To schedule:
-1. Create a new page, click on **New content** on the left sidebar.
-2. Click on the **Advanced** tab.
-3. Choose the date and time you want the page to be published.
-4. The status of the page needs to be **Published**.
-5. Complete the page, such as title, and content.
-6. Click **Save** button.
+Para programar:
+1. Cree una nueva página, haga clic en **Nuevo contenido** en la barra lateral izquierda.
+2. Haga clic en la pestaña **Avanzado**.
+3. Elige la fecha y hora en la que quieres que se publique la página.
+4. El estado de la página debe ser **Publicado**.
+5. Complete la página, como el título y el contenido.
+6. Haga clic en el botón **Guardar**.
 
-![How to schedule a page](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/scheduled-page.png)
+![Cómo programar una página](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/scheduled-page.png)
 
 <div class="note">
-<div class="title">Note</div>
-The scheduled content appears on the <b>Dashboard</b> under <b>Manage > Content</b> with a label <b>Scheduled</b>.
+<div class="title">Nota</div>
+El contenido programado aparece en el <b>Panel</b> en <b>Administrar > Contenido</b> con la etiqueta <b>Programado</b>.
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-The users can't access the page until the publish date.
+<div class="title">Nota</div>
+Los usuarios no pueden acceder a la página hasta la fecha de publicación.
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-You can modify the publish date by editing the page from <b>Manage > Content</b>.
+<div class="title">Nota</div>
+Puede modificar la fecha de publicación editando la página desde <b>Administrar > Contenido</b>.
 </div>
