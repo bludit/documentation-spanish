@@ -1,17 +1,17 @@
 # Title: Agregar un enlace de leer más
 <!-- Position: 3 -->
 ---
-You can split the content of the page adding the tag `<!-- pagebreak -->` between the content to split.
+Puedes dividir el contenido de la página agregando la etiqueta `<!-- pagebreak -->` entre el contenido a dividir.
 
 ![Read more link](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/read-more-link.png)
 
-Example of content:
+Ejemplo de contenido:
 ```
-This is the first part of the content of the page.
+Esta es la primera parte del contenido de la página.
 
 <!-- pagebreak -->
 
-This is the second part of the page.
+Esta es la segunda parte de la página.
 ```
 
 <div class="note">
@@ -20,6 +20,6 @@ This is the second part of the page.
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-This feature is handled by the themes and not all the themes support it.
+<div class="title">Nota</div>
+Esta función es manejeda por los temas o plantillas y no todos los temas permiten su uso.
 </div>
