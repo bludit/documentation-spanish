@@ -3,7 +3,7 @@
 ---
 Bludit soporta temas o plantillas para cambiar la apariencia de su sitio web o blog.
 
-Puedes encontrar temas en el sitio web [Bludit Themes](https://themes.bludit.com/es/).
+Puedes encontrar temas en el sitio web [Bludit Temas](https://themes.bludit.com/es/).
 
 ## Cómo instalar un tema
 1. Descarga el archivo zip con el tema.
