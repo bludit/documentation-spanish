@@ -1,13 +1,13 @@
 # Title: Temas
 <!-- Position: 6 -->
 ---
-Bludit supports themes to change the appearance of your website or blog.
+Bludit soporta temas o plantillas para cambiar la apariencia de su sitio web o blog.
 
-You can find themes on the website [Bludit Themes](https://themes.bludit.com).
+Puedes encontrar temas en el sitio web [Bludit Temas](https://themes.bludit.com/es/).
 
-## How to install a theme
-1. Download the zip file with the theme.
-2. Uncompress the zip file.
-3. Copy the theme folder into the folder `/bl-themes/` on the server.
-4. Go to the **Admin panel**, on the left sidebar go to **Settings > Themes**.
-5. Look for the theme on the list and click on **Activate**.
+## Cómo instalar un tema
+1. Descarga el archivo zip con el tema.
+2. Descomprima o extraiga el archivo zip.
+3. Copie la carpeta del tema en la carpeta `/bl-themes/` en el servidor.
+4. Vaya al **Panel de administración**, en la barra lateral izquierda vaya a **Configuración > Temas**.
+5. Busque el tema en la lista y haga clic en **Activar**.
