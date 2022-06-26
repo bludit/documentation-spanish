@@ -12,5 +12,5 @@ Bludit PRO está disponible para donantes y patrocinadores en 'Open Collective'.
 
 ## Complementos (Plugins) incluidos en Bludit PRO
 - [Timemachine](https://docs.bludit.com/en/bludit-pro/timemachine)
-- [Remote Content](https://docs.bludit.com/en/bludit-pro/remote-content)
+- [Contenido Remoto](https://docs.bludit.com/en/bludit-pro/remote-content)
 - Simple Stats
