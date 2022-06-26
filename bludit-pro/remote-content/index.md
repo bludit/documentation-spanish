@@ -14,9 +14,7 @@ Este video muestra cómo sincronizar **Bludit** con Github.
 Aquí hay un repositorio con tres páginas, cada página tiene definida la fecha de publicación, este repositorio se utiliza en el video como ejemplo.
 - https://github.com/bludit/remote-content-example
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kzh_Wl2ZovQ" target="_blank">
- <img src="http://img.youtube.com/vi/Kzh_Wl2ZovQ/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![Ver video](https://img.youtube.com/vi/Kzh_Wl2ZovQ/default.jpg)](https://youtu.be/Kzh_Wl2ZovQ)
 
 <!-- <div class="video-embed">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/Kzh_Wl2ZovQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
