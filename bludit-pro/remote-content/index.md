@@ -1,19 +1,24 @@
-# Title: Remote Content
+# Title: Contenido remoto
 <!-- Position: 1 -->
 ---
-Remote Content plugin provides the feature to have all your content on Github or similar and stay in sync with your Bludit.
+El complemento de contenido remoto proporciona la función de tener todo el contenido en Github o plataforma similar y mantenerse sincronizado con su sitio web en **Bludit**.
 
-For example, the [Bludit's Blog](https://blog.bludit.com) works with this plugin and the content of the site is on Github on this repository https://github.com/bludit/blog, when I want to create a new page, I create the page and upload to Github (push).
+Por ejemplo, el [Blog de Bludit](https://blog.bludit.com) funciona con este complemento y el contenido del sitio está en Github en este repositorio https://github.com/bludit/blog, para crear una nueva página, creo la página y la subo a Github (push).
 
 ## Webhooks
-It's possible to define a webhook on Github to ping Bludit on each change of the content in the repository. The plugin provides the URL with the webhook, is recommended change the endpoint of the webhook with some random string.
+Es posible definir un 'webhook' en Github para hacer 'ping' a Bludit en cada cambio de contenido en el repositorio. El complemento proporciona la URL con el webhook, se recomienda cambiar el 'endpoint' del webhook con alguna cadena de caracteres aleatoria o personalizada.
 
 ## Video tutorial
-This video shows how to sync Bludit with Github.
+Este video muestra cómo sincronizar **Bludit** con Github.
 
-Here is a repository with three pages, each page has defined the date of publication, this repository is used in the video as an example.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kzh_Wl2ZovQ" target="_blank">
+ <img src="http://img.youtube.com/vi/Kzh_Wl2ZovQ/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+<!-- <div class="video-embed">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/Kzh_Wl2ZovQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
+</div> -->
+
+Aquí hay un repositorio con tres páginas, cada página tiene definida la fecha de publicación, este repositorio se utiliza en el video como ejemplo.
 - https://github.com/bludit/remote-content-example
 
-<div class="video-embed">
-	<iframe width="640" height="360" src="https://www.youtube.com/embed/Kzh_Wl2ZovQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
-</div>

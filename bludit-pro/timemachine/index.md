@@ -1,25 +1,29 @@
-# Title: Timemachine
+# Title: Máquina del tiempo
 <!-- Position: 2 -->
 ---
-Timemachine is a plugin for Bludit and allows you to go back to some particular state of your system. For example, you deleted unintentionally a page and you want to recover it, or you edit some properties from the settings and you want to recover the previous settings.
+Máquina del tiempo es un complemento para Bludit y le permite volver a algún estado particular anterior de su sistema. Por ejemplo, eliminó sin querer una página y desea recuperarla, o editó algunas propiedades de la configuración y desea recuperar la configuración anterior.
 
-## Enable Timemachine
-- Go to the **admin area**
-- Go to **Settings > Plugins**
-- Search for the plugin **Timemachine** and click on the button **Activate**
-- Now each event on your website is stored.
+## Habilitar Máquina del tiempo
+- Ve al **área de administración**
+- Ve a **Configuración > Complementos**
+- Busca el complemento **Máquina del tiempo** y haga clic en el botón **Activar**
+- Ahora se almacena cada evento en su sitio web.
 
-## How to recover a previous state
-- Go to the **admin area**
-- Go to **Settings > Plugins**
-- Search for the plugin **Timemachine** and click on the button **Settings**
-- You can see a list of events ordered by date.
-- Search for the event and click on the button **Go back to this point**
-- Now the system goes back in time to the particular state.
+## ¿Cómo recuperar un estado anterior?
+- Ve al **área de administración**
+- Ve a **Configuración > Complementos**
+- Busqua el complemento **Máquina del tiempo** y haga clic en el botón **Configuración**
+- Podrás ver una lista de eventos ordenados por fecha.
+- Busca el evento y haga clic en el botón **Volver a este punto**
+- Ahora el sistema retrocede en el tiempo al estado particular indicado.
 
 ## Video tutorial
-This video shows how to enable the plugin **Timemachine**; Then two new pages are created and one of them is deleted to test the recovery system.
+Este video muestra cómo habilitar el complemento **Máquina del tiempo**; Luego se crean dos nuevas páginas y una de ellas se elimina para probar el sistema de recuperación.
 
-<div class="video-embed">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=30VuB1INVBg" target="_blank">
+ <img src="http://img.youtube.com/vi/30VuB1INVBg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+<!-- <div class="video-embed">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/30VuB1INVBg?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
-</div>
+</div> -->
